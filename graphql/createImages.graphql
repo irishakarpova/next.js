@@ -1,0 +1,8 @@
+mutation CreateImages($input: [CreateProductImageInput!]!) {
+  createImages(input: $input) {
+    id
+    task_id
+    product_image
+    image_type
+  }
+}

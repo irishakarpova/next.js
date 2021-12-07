@@ -1,0 +1,7 @@
+query ProductDates($task_id: Int!) {
+  productDates(id: $task_id) {
+    id
+    task_id
+    active_date
+  }
+}

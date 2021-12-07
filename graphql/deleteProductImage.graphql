@@ -1,0 +1,8 @@
+mutation DeleteProductImage($id: Int!) {
+  deleteProductImage(id: $id) {
+    id
+    task_id
+    product_image
+    image_type
+  }
+}

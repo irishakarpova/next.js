@@ -1,0 +1,14 @@
+query Product($id: Int!) {
+  product(id: $id) {
+    title
+    desc_tour
+    price
+    location
+    category
+    dates {
+      id
+      task_id
+      active_date
+    }
+  }
+}

@@ -1,0 +1,7 @@
+mutation CreateProductDate($input: CreateProductDateInput!) {
+  createProductDate(input: $input) {
+    id
+    task_id
+    active_date
+  }
+}

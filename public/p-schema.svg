@@ -1,0 +1,68 @@
+<svg id="Component_22_1" data-name="Component 22 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1564" height="842" viewBox="0 0 1564 842">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="77" height="284" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_59" data-name="Rectangle 59" width="750" height="812" rx="16" transform="translate(30 30)" fill="#6b9670"/>
+  <rect id="Rectangle_58" data-name="Rectangle 58" width="750" height="812" rx="16" transform="translate(20 20)" fill="#f7b4c6"/>
+  <rect id="Rectangle_57" data-name="Rectangle 57" width="750" height="812" rx="16" transform="translate(10 10)" fill="#9c81bc"/>
+  <g id="Rectangle_55" data-name="Rectangle 55" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="750" height="812" rx="16" stroke="none"/>
+    <rect x="0.5" y="0.5" width="749" height="811" rx="15.5" fill="none"/>
+  </g>
+  <g id="Rectangle_55-2" data-name="Rectangle 55" transform="translate(814)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="750" height="812" rx="16" stroke="none"/>
+    <rect x="0.5" y="0.5" width="749" height="811" rx="15.5" fill="none"/>
+  </g>
+  <g id="Rectangle_51" data-name="Rectangle 51" transform="translate(118 214)" fill="#ccc" stroke="#707070" stroke-width="3">
+    <rect width="513" height="114" rx="13" stroke="none"/>
+    <rect x="1.5" y="1.5" width="510" height="111" rx="11.5" fill="none"/>
+  </g>
+  <g id="Rectangle_51-2" data-name="Rectangle 51" transform="translate(118 348)" fill="#f7f7f7" stroke="#707070" stroke-width="3">
+    <rect width="513" height="114" rx="13" stroke="none"/>
+    <rect x="1.5" y="1.5" width="510" height="111" rx="11.5" fill="none"/>
+  </g>
+  <g id="Rectangle_51-3" data-name="Rectangle 51" transform="translate(118 482)" fill="#f7f7f7" stroke="#707070" stroke-width="3">
+    <rect width="513" height="114" rx="13" stroke="none"/>
+    <rect x="1.5" y="1.5" width="510" height="111" rx="11.5" fill="none"/>
+  </g>
+  <g id="Rectangle_51-4" data-name="Rectangle 51" transform="translate(118 616)" fill="#f7f7f7" stroke="#707070" stroke-width="3">
+    <rect width="513" height="114" rx="13" stroke="none"/>
+    <rect x="1.5" y="1.5" width="510" height="111" rx="11.5" fill="none"/>
+  </g>
+  <g id="Rectangle_52" data-name="Rectangle 52" transform="translate(927 214)" fill="#ccc" stroke="#707070" stroke-width="3">
+    <rect width="513" height="516" rx="13" stroke="none"/>
+    <rect x="1.5" y="1.5" width="510" height="513" rx="11.5" fill="none"/>
+  </g>
+  <g id="Repeat_Grid_6" data-name="Repeat Grid 6" transform="translate(967 271)" clip-path="url(#clip-path)">
+    <g transform="translate(-1285 -459)">
+      <rect id="Rectangle_53" data-name="Rectangle 53" width="77" height="77" transform="translate(1285 459)" fill="#fff"/>
+    </g>
+    <g transform="translate(-1285 -362)">
+      <rect id="Rectangle_53-2" data-name="Rectangle 53" width="77" height="77" transform="translate(1285 459)" fill="#fff"/>
+    </g>
+    <g transform="translate(-1285 -265)">
+      <rect id="Rectangle_53-3" data-name="Rectangle 53" width="77" height="77" transform="translate(1285 459)" fill="#fff"/>
+    </g>
+  </g>
+  <rect id="Rectangle_54" data-name="Rectangle 54" width="100" height="15" transform="translate(1075 271)" fill="#fff"/>
+  <rect id="Rectangle_54-2" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 307)" fill="#fff"/>
+  <rect id="Rectangle_54-3" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 343)" fill="#fff"/>
+  <rect id="Rectangle_54-4" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 379)" fill="#fff"/>
+  <rect id="Rectangle_54-5" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 415)" fill="#fff"/>
+  <rect id="Rectangle_54-6" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 451)" fill="#fff"/>
+  <rect id="Rectangle_54-7" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 487)" fill="#fff"/>
+  <rect id="Rectangle_54-8" data-name="Rectangle 54" width="218" height="15" transform="translate(1075 523)" fill="#fff"/>
+  <line id="Line_5" data-name="Line 5" x2="283" transform="translate(631.5 278.5)" fill="none" stroke="#707070" stroke-width="4"/>
+  <g id="Polygon_5" data-name="Polygon 5" transform="translate(927.5 262.976) rotate(90)" fill="#707070">
+    <path d="M 30.1815185546875 26.3148193359375 L 0.8672208189964294 26.3148193359375 L 15.52436923980713 0.9979278445243835 L 30.1815185546875 26.3148193359375 Z" stroke="none"/>
+    <path d="M 15.52436923980713 1.995872497558594 L 1.734453201293945 25.8148193359375 L 29.31428527832031 25.8148193359375 L 15.52436923980713 1.995872497558594 M 15.52436923980713 0 L 31.04873847961426 26.8148193359375 L 0 26.8148193359375 L 15.52436923980713 0 Z" stroke="none" fill="#707070"/>
+  </g>
+  <text id="Product_page_by_ID" data-name="Product page by ID" transform="translate(1056 57)" fill="#707070" font-size="28" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="27">Product page by ID</tspan></text>
+  <rect id="Rectangle_56" data-name="Rectangle 56" width="108" height="21" rx="4" transform="translate(120 133)" fill="#4b4b4b"/>
+  <rect id="Rectangle_56-2" data-name="Rectangle 56" width="108" height="21" rx="4" transform="translate(248 133)" fill="#9c81bc"/>
+  <rect id="Rectangle_56-3" data-name="Rectangle 56" width="108" height="21" rx="4" transform="translate(376 133)" fill="#f7b4c6"/>
+  <rect id="Rectangle_56-4" data-name="Rectangle 56" width="108" height="21" rx="4" transform="translate(504 133)" fill="#6b9670"/>
+  <text id="Products_list_with_dynamic_routes_by_category" data-name="Products list with dynamic routes by category" transform="translate(81 60)" fill="#707070" font-size="28" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="27">Products list with dynamic routes by category</tspan></text>
+</svg>

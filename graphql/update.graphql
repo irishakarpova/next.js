@@ -1,0 +1,10 @@
+mutation UpdateProduct($input: UpdateProductInput!) {
+  updateProduct(input: $input) {
+    id
+    title
+    desc_tour
+    location
+    category
+    price
+  }
+}

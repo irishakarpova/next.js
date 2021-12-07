@@ -1,0 +1,17 @@
+query Products($category: CategoryProduct, $limit: Int, $offset: Int) {
+  products(category: $category, limit: $limit, offset: $offset) {
+    id
+    title
+    price
+    desc_tour
+    location
+    product_image
+    image_type
+    category
+    dates {
+      id
+      task_id
+      active_date
+    }
+  }
+}

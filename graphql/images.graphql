@@ -1,0 +1,8 @@
+query ProductImages($id: Int!) {
+  productImages(id: $id) {
+    id
+    task_id
+    product_image
+    image_type
+  }
+}

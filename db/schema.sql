@@ -1,0 +1,29 @@
+DROP TABLE IF EXISTS products;
+CREATE TABLE products (
+  id INT UNSIGNED AUTO_INCREMENT,
+  title VARCHAR(255) NOT NULL,
+  category VARCHAR(255),
+  desc_tour LONGTEXT NOT NULL,
+  location VARCHAR(255) NOT NULL,
+  price INT,
+PRIMARY KEY (id)
+);
+
+DROP TABLE IF EXISTS dates;
+CREATE TABLE dates (
+  id INT UNSIGNED AUTO_INCREMENT,
+  task_id INT NOT NULL,
+  active_date DATETIME NOT NULL,
+PRIMARY KEY (id)
+);
+
+DROP TABLE IF EXISTS tourimages;
+CREATE TABLE tourimages(
+  id INT UNSIGNED AUTO_INCREMENT, 
+  task_id INT NOT NULL,
+  product_image LONGTEXT,
+  image_type VARCHAR(100),
+PRIMARY KEY (id)
+);
+
+

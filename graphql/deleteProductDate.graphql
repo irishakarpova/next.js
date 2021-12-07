@@ -1,0 +1,7 @@
+mutation DeleteProductDate($id: Int!) {
+  deleteProductDate(id: $id) {
+    id
+    task_id
+    active_date
+  }
+}

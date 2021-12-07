@@ -1,0 +1,8 @@
+mutation UpdateImageType($input: UpdateImageTypeInput!) {
+  updateImageType(input: $input) {
+    id
+    task_id
+    product_image
+    image_type
+  }
+}
